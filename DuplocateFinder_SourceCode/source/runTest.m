@@ -1,0 +1,5 @@
+test('2.bmp', '2.bmp')
+test('2.bmp', '2b.bmp')
+test('2.bmp', '3.bmp')
+test('2.bmp', '2f.bmp')
+test('2.bmp', '8.jpg')
